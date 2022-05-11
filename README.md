@@ -1,7 +1,7 @@
 ## Getting started:
 ```bash
 git init
-git clone https://github.com/Paralian/umr-data-integration-project.git
+git clone https://github.com/Paralian/umr-data-integration-project-the-TODO-team.git
 ```
 
 ## Structure
