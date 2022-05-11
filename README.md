@@ -1,3 +1,9 @@
+## Team
+Team Name: TODO
+Members:
+ - Juan Fernando Maya
+ - Ilya Zykov
+
 ## Getting started:
 ```bash
 git init
