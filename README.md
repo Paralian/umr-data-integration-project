@@ -1,11 +1,8 @@
-# Data Integration Project 
-
-This repository serves as template for the students project accompanying the
-"Data Integration" lecture at University of Marburg.
-
-Students can
-[fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) or copy
-this repository to kick-start their project.
+## Getting started:
+```bash
+git init
+git clone https://github.com/Paralian/umr-data-integration-project.git
+```
 
 ## Structure
 
