@@ -5,6 +5,7 @@ Team Name: `TODO`
 Members:
  - Juan Fernando Maya
  - Ilya Zykov
+ - Miron Brandeis
 
 ## Getting started:
 ```bash
