@@ -30,8 +30,9 @@ DF_yugioh['vitality'] = DF_yugioh['vitality']/DF_yugioh['vitality'].max(axis=0) 
 DF_yugioh['harmful'] = [True if atk>0 else False for atk in DF_yugioh["ATK"]]  # Rule: if ATK>0 is harmful
 
 DF_yugioh['development_stage'] = DF_yugioh['Level']/DF_yugioh['Level'].max(axis=0)  # dev_stage <- norm(Level)
+DF_yugioh['attack'] = DF_yugioh['ATK']/DF_yugioh['ATK'].max(axis=0)
 
-DF_yugioh.rename(columns={"Name": "name", "ATK": "attack", "Type": "type", "Race": "kind"}, inplace=True)  # Rename columns to concat with final entity
+DF_yugioh.rename(columns={"Name": "name", "Type": "type", "Race": "kind"}, inplace=True)  # Rename columns to concat with final entity
 
 # For Skyrim:
 
