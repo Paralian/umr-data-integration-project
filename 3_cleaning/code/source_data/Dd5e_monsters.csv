@@ -1,0 +1,325 @@
+Name,Size,Race + alignment,HP,Armor,Speed,Challenge rating  (XP)
+Aboleth,Large,"aberration, Lawful Evil",135 (18d10+36),17 (Natural Armor),"10 ft., swim 40 ft.","10 (5,900 XP)"
+Acolyte,Medium,"humanoid (any race), Any Alignment",9 (2d8),10,30 ft.,1/4 (50 XP)
+Adult Black Dragon,Huge,"dragon, Chaotic Evil",195 (17d12+85),19 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","14 (11,500 XP)"
+Adult Blue Dragon,Huge,"dragon, Lawful Evil",225 (18d12+108),19,"40 ft., burrow 30 ft., fly 80 ft.","16 (15,000 XP)"
+Adult Brass Dragon,Huge,"dragon, Chaotic Good",172 (15d12+75),18 (Natural Armor),"40 ft., burrow 40 ft., fly 80 ft.","13 (10,000 XP)"
+Adult Bronze Dragon,Huge,"dragon, Lawful Good",212 (17d12+102),19 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","15 (13,000 XP)"
+Adult Copper Dragon,Huge,"dragon, Chaotic Good",184 (16d12+80),18 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","14 (11,500 XP)"
+Adult Gold Dragon,Huge,"dragon, Lawful Good",256 (19d12+133),19 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","17 (18,000 XP)"
+Adult Green Dragon,Huge,"dragon, Lawful Evil",207 (18d12+90),19 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","15 (13,000 XP)"
+Adult Red Dragon,Huge,"dragon, Chaotic Evil",256 (19d12+133),19 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","17 (18,000 XP)"
+Adult Silver Dragon,Huge,"dragon, Lawful Good",243 (18d12+126),19 (Natural Armor),"40 ft., fly 80 ft.","16 (15,000 XP)"
+Adult White Dragon,Huge,"dragon, Chaotic Evil",200 (16d12+96),18 (Natural Armor),"40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.","13 (10,000 XP)"
+Air Elemental,Large,"elemental, Neutral",90 (12d10+24),15,"0 ft., fly 90 ft. (hover)","5 (1,800 XP)"
+Ancient Black Dragon,Gargantuan,"dragon, Chaotic Evil",367 (21d20+147),22 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","21 (33,000 XP)"
+Ancient Blue Dragon,Gargantuan,"dragon, Lawful Evil",481 (26d20+208),22 (Natural Armor),"40 ft., burrow 40 ft., fly 80 ft.","23 (50,000 XP)"
+Ancient Brass Dragon,Gargantuan,"dragon, Chaotic Good",297 (17d20+119),20 (Natural Armor),"40 ft., burrow 40 ft., fly 80 ft.","20 (25,000 XP)"
+Ancient Bronze Dragon,Gargantuan,"dragon, Lawful Good",444 (24d20+192),22 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","22 (41,000 XP)"
+Ancient Copper Dragon,Gargantuan,"dragon, Chaotic Good",350 (20d20+140),21 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","21 (33,000 XP)"
+Ancient Gold Dragon,Gargantuan,"dragon, Lawful Good",546 (28d20+252),22 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","24 (62,000 XP)"
+Ancient Green Dragon,Gargantuan,"dragon, Lawful Evil",385 (22d20+154),21 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","22 (41,000 XP)"
+Ancient Red Dragon,Gargantuan,"dragon, Chaotic Evil",546 (28d20+252),22 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","24 (62,000 XP)"
+Ancient Silver Dragon,Gargantuan,"dragon, Lawful Good",487 (25d20+225),22 (Natural Armor),"40 ft., fly 80 ft.","23 (50,000 XP)"
+Ancient White Dragon,Gargantuan,"dragon, Chaotic Evil",333 (18d20+144),20 (Natural Armor),"40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.","20 (25,000 XP)"
+Androsphinx,Large,"monstrosity, Lawful Neutral",199 (19d10+95),17 (Natural Armor),"40 ft., fly 60 ft.","17 (18,000 XP)"
+Animated Armor,Medium,"construct, Unaligned",33 (6d8+6),18 (Natural Armor),25 ft.,1 (200 XP)
+Ankheg,Large,"monstrosity, Unaligned",39 (6d10+6),"14 (Natural Armor, 11 While Prone)","30 ft., burrow 10 ft.",2 (450 XP)
+Ape,Medium,"beast, Unaligned",19 (3d8+6),12,"30 ft., climb 30 ft.",1/2 (100 XP)
+Archmage,Medium,"humanoid (any race), Any Alignment",99 (18d8+18),12 (15 With Mage Armor),30 ft.,"12 (8,400 XP)"
+Assassin,Medium,"humanoid (any race), Any Non-good Alignment",78 (12d8+24),15 (Studded Leather),30 ft.,"8 (3,900 XP)"
+Awakened Shrub,Small,"plant, Unaligned",10 (3d6),9,20 ft.,0 (10 XP)
+Awakened Tree,Huge,"plant, Unaligned",59 (7d12+14),13 (Natural Armor),20 ft.,2 (450 XP)
+Axe Beak,Large,"beast, Unaligned",19 (3d10+3),11,50 ft.,1/4 (50 XP)
+Azer,Medium,"elemental, Lawful Neutral",39 (6d8+12),"17 (Natural Armor, Shield)",30 ft.,2 (450 XP)
+Baboon,Small,"beast, Unaligned",3 (1d6),12,"30 ft., climb 30 ft.",0 (10 XP)
+Badger,Tiny,"beast, Unaligned",3 (1d4+1),10,"20 ft., burrow 5 ft.",0 (10 XP)
+Balor,Huge,"fiend (demon), Chaotic Evil",262 (21d12+126),19 (Natural Armor),"40 ft., fly 80 ft.","19 (22,000 XP)"
+Bandit,Medium,"humanoid (any race), Any Non-lawful Alignment",11 (2d8+2),12 (Leather Armor),30 ft.,1/8 (25 XP)
+Bandit Captain,Medium,"humanoid (any race), Any Non-lawful Alignment",65 (10d8+20),15 (Studded Leather),30 ft.,2 (450 XP)
+Barbed Devil,Medium,"fiend (devil), Lawful Evil",110 (13d8+52),15 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Basilisk,Medium,"monstrosity, Unaligned",52 (8d8+16),15 (Natural Armor),20 ft.,3 (700 XP)
+Bat,Tiny,"beast, Unaligned",1 (1d4-1),12,"5 ft., fly 30 ft.",0 (10 XP)
+Bearded Devil,Medium,"fiend (devil), Lawful Evil",52 (8d8+16),13 (Natural Armor),30 ft.,3 (700 XP)
+Behir,Huge,"monstrosity, Neutral Evil",168 (16d12+64),17 (Natural Armor),"50 ft., climb 40 ft.","11 (7,200 XP)"
+Berserker,Medium,"humanoid (any race), Any Chaotic Alignment",67 (9d8+27),13 (Hide Armor),30 ft.,2 (450 XP)
+Black Bear,Medium,"beast, Unaligned",19 (3d8+6),11 (Natural Armor),"40 ft., climb 30 ft.",1/2 (100 XP)
+Black Dragon Wyrmling,Medium,"dragon, Chaotic Evil",33 (6d8+6),17 (Natural Armor),"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Black Pudding,Large,"ooze, Unaligned",85 (10d10+30),7,"20 ft., climb 20 ft.","4 (1,100 XP)"
+Blink Dog,Medium,"fey, Lawful Good",22 (4d8+4),13,40 ft.,1/4 (50 XP)
+Blood Hawk,Small,"beast, Unaligned",7 (2d6),12,"10 ft., fly 60 ft.",1/8 (25 XP)
+Blue Dragon Wyrmling,Medium,"dragon, Lawful Evil",52 (8d8+16),17 (Natural Armor),"30 ft., burrow 15 ft., fly 60 ft.",3 (700 XP)
+Boar,Medium,"beast, Unaligned",11 (2d8+2),11 (Natural Armor),40 ft.,1/4 (50 XP)
+Bone Devil,Large,"fiend (devil), Lawful Evil",142 (15d10+60),19 (Natural Armor),"40 ft., fly 40 ft.","9 (5,000 XP)"
+Brass Dragon Wyrmling,Medium,"dragon, Chaotic Good",16 (3d8+3),16 (Natural Armor),"30 ft., burrow 15 ft., fly 60 ft.",1 (200 XP)
+Bronze Dragon Wyrmling,Medium,"dragon, Lawful Good",32 (5d8+10),17 (Natural Armor),"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Brown Bear,Large,"beast, Unaligned",34 (4d10+12),11 (Natural Armor),"40 ft., climb 30 ft.",1 (200 XP)
+Bugbear,Medium,"humanoid (goblinoid), Chaotic Evil",27 (5d8+5),"16 (Hide Armor, Shield)",30 ft.,1 (200 XP)
+Bulette,Large,"monstrosity, Unaligned",94 (9d10+45),17 (Natural Armor),"40 ft., burrow 40 ft.","5 (1,800 XP)"
+Camel,Large,"beast, Unaligned",15 (2d10+4),9,50 ft.,1/8 (25 XP)
+Cat,Tiny,"beast, Unaligned",2 (1d4),12,"40 ft., climb 30 ft.",0 (10 XP)
+Centaur,Large,"monstrosity, Neutral Good",45 (6d10+12),12,50 ft.,2 (450 XP)
+Chain Devil,Medium,"fiend (devil), Lawful Evil",85 (10d8+40),16 (Natural Armor),30 ft.,"8 (3,900 XP)"
+Chimera,Large,"monstrosity, Chaotic Evil",114 (12d10+48),14 (Natural Armor),"30 ft., fly 60 ft.","6 (2,300 XP)"
+Chuul,Large,"aberration, Chaotic Evil",93 (11d10+33),16 (Natural Armor),"30 ft., swim 30 ft.","4 (1,100 XP)"
+Clay Golem,Large,"construct, Unaligned",133 (14d10+56),14 (Natural Armor),20 ft.,"9 (5,000 XP)"
+Cloaker,Large,"aberration, Chaotic Neutral",78 (12d10+12),14 (Natural Armor),"10 ft., fly 40 ft.","8 (3,900 XP)"
+Cloud Giant,Huge,"giant, Neutral Good (50%) Or Neutral Evil (50%)",200 (16d12+96),14 (Natural Armor),40 ft.,"9 (5,000 XP)"
+Cockatrice,Small,"monstrosity, Unaligned",27 (6d6+6),11,"20 ft., fly 40 ft.",1/2 (100 XP)
+Commoner,Medium,"humanoid (any race), Any Alignment",4 (1d8),10,30 ft.,0 (10 XP)
+Constrictor Snake,Large,"beast, Unaligned",13 (2d10+2),12,"30 ft., swim 30 ft.",1/4 (50 XP)
+Copper Dragon Wyrmling,Medium,"dragon, Chaotic Good",22 (4d8+4),16 (Natural Armor),"30 ft., climb 30 ft., fly 60 ft.",1 (200 XP)
+Couatl,Medium,"celestial, Lawful Good",97 (13d8+39),19 (Natural Armor),"30 ft., fly 90 ft.","4 (1,100 XP)"
+Crab,Tiny,"beast, Unaligned",2 (1d4),11 (Natural Armor),"20 ft., swim 20 ft.",0 (10 XP)
+Crocodile,Large,"beast, Unaligned",19 (3d10+3),12 (Natural Armor),"20 ft., swim 30 ft.",1/2 (100 XP)
+Cult Fanatic,Medium,"humanoid (any race), Any Non-good Alignment",33 (6d8+6),13 (Leather Armor),30 ft.,2 (450 XP)
+Cultist,Medium,"humanoid (any race), Any Non-good Alignment",9 (2d8),12 (Leather Armor),30 ft.,1/8 (25 XP)
+Darkmantle,Small,"monstrosity, Unaligned",22 (5d6+5),11,"10 ft., fly 30 ft.",1/2 (100 XP)
+Death Dog,Medium,"monstrosity, Neutral Evil",39 (6d8+12),12,40 ft.,1 (200 XP)
+Deep Gnome (Svirfneblin),Small,"humanoid (gnome), Neutral Good",16 (3d6 + 6),15 (chain shirt),20 ft.,1/2 (100 XP)
+Deer,Medium,"beast, Unaligned",4 (1d8),13,50 ft.,0 (10 XP)
+Deva,Medium,"celestial, Lawful Good",136 (16d8+64),17 (Natural Armor),"30 ft., fly 90 ft.","10 (5,900 XP)"
+Dire Wolf,Large,"beast, Unaligned",37 (5d10+10),14 (Natural Armor),50 ft.,1 (200 XP)
+Diseased Giant Rat,Small,"beast, Unaligned",7,12,30 ft.,1/8 (25 XP)
+Djinni,Large,"elemental, Chaotic Good",161 (14d10+84),17 (Natural Armor),"30 ft., fly 90 ft.","11 (7,200 XP)"
+Doppelganger,Medium,"monstrosity (shapechanger), Unaligned",52 (8d8+16),14,30 ft.,3 (700 XP)
+Draft Horse,Large,"beast, Unaligned",19 (3d10+3),10,40 ft.,1/4 (50 XP)
+Dragon Turtle,Gargantuan,"dragon, Neutral",341 (22d20+10),20 (Natural Armor),"20 ft., swim 40 ft.","17 (18,000 XP)"
+Dretch,Small,"fiend (demon), Chaotic Evil",18 (4d6+4),11 (Natural Armor),20 ft.,1/4 (50 XP)
+Drider,Large,"monstrosity, Chaotic Evil",123 (13d10+52),19 (Natural Armor),"30 ft., climb 30 ft.","6 (2,300 XP)"
+Drow,Medium,"humanoid (elf), Neutral Evil",13 (3d8),15 (Chain Shirt),30 ft.,1/4 (50 XP)
+Druid,Medium,"humanoid (any race), Any Alignment",27 (5d8+5),11 (16 With Barkskin),30 ft.,2 (450 XP)
+Dryad,Medium,"fey, Neutral",22 (5d8),11 (16 With Barkskin),30 ft.,1 (200 XP)
+Duergar,Medium,"humanoid (dwarf), Lawful Evil",26 (4d8+4),"16 (Scale Mail, Shield)",25 ft.,1 (200 XP)
+Dust Mephit,Small,"elemental, Neutral Evil",17 (5d6),12,"30 ft., fly 30 ft.",1/2 (100 XP)
+Eagle,Small,"beast, Unaligned",3 (1d6),12,"10 ft., fly 60 ft.",0 (10 XP)
+Earth Elemental,Large,"elemental, Neutral",126 (12d10+60),17 (Natural Armor),"30 ft., burrow 30 ft.","5 (1,800 XP)"
+Efreeti,Large,"elemental, Lawful Evil",200 (16d10+112),17 (Natural Armor),"40 ft., fly 60 ft.","11 (7,200 XP)"
+Elephant,Huge,"beast, Unaligned",76 (8d12+24),12 (Natural Armor),40 ft.,"4 (1,100 XP)"
+Elk,Large,"beast, Unaligned",13 (2d10+2),10,50 ft.,1/4 (50 XP)
+Erinyes,Medium,"fiend (devil), Lawful Evil",153 (18d8+72),18 (Plate),"30 ft., fly 60 ft.","12 (8,400 XP)"
+Ettercap,Medium,"monstrosity, Neutral Evil",44 (8d8+8),13 (Natural Armor),"30 ft., climb 30 ft.",2 (450 XP)
+Ettin,Large,"giant, Chaotic Evil",85 (10d10+30),12 (Natural Armor),40 ft.,"4 (1,100 XP)"
+Fire Elemental,Large,"elemental, Neutral",102 (12d10+36),13,50 ft.,"5 (1,800 XP)"
+Fire Giant,Huge,"giant, Lawful Evil",162 (13d12+78),18 (Plate),30 ft.,"9 (5,000 XP)"
+Flesh Golem,Medium,"construct, Neutral",93 (11d8+44),9,30 ft.,"5 (1,800 XP)"
+Flying Snake,Tiny,"beast, Unaligned",5 (2d4),14,"30 ft., fly 60 ft., swim 30 ft.",1/8 (25 XP)
+Flying Sword,Small,"construct, Unaligned",17 (5d6),17 (Natural Armor),"0 ft., fly 50 ft. It can hover.",1/4 (50 XP)
+Frog,Tiny,"beast, Unaligned",1 (1d4-1),11,"20 ft., swim 20 ft.",0 (10 XP)
+Frost Giant,Huge,"giant, Neutral Evil",138 (12d12+60),15 (Patchwork Armor),40 ft.,"8 (3,900 XP)"
+Gargoyle,Medium,"elemental, Chaotic Evil",52 (7d8+21),15 (Natural Armor),"30 ft., fly 60 ft.",2 (450 XP)
+Gelatinous Cube,Large,"ooze, Unaligned",84 (8d10+40),6,15 ft.,2 (450 XP)
+Ghast,Medium,"undead, Chaotic Evil",36 (8d8),13,30 ft.,2 (450 XP)
+Ghost,Medium,"undead, Any Alignment",45 (10d8),11,"0 ft., fly 40 ft. It can hover.","4 (1,100 XP)"
+Ghoul,Medium,"undead, Chaotic Evil",22 (5d8),12,30 ft.,1 (200 XP)
+Giant Ape,Huge,"beast, Unaligned",157 (15d12+60),12,"40 ft., climb 40 ft.","7 (2,900 XP)"
+Giant Badger,Medium,"beast, Unaligned",13 (2d8+4),10,"30 ft., burrow 10 ft.",1/4 (50 XP)
+Giant Bat,Large,"beast, Unaligned",22 (4d10),13,"10 ft., fly 60 ft.",1/4 (50 XP)
+Giant Boar,Large,"beast, Unaligned",42 (5d10+15),12 (Natural Armor),40 ft.,2 (450 XP)
+Giant Centipede,Small,"beast, Unaligned",4 (1d6+1),13 (Natural Armor),"30 ft., climb 30 ft.",1/4 (50 XP)
+Giant Constrictor Snake,Huge,"beast, Unaligned",60 (8d12+8),12,"30 ft., swim 30 ft.",2 (450 XP)
+Giant Crab,Medium,"beast, Unaligned",13 (3d8),15 (Natural Armor),"30 ft., swim 30 ft.",1/8 (25 XP)
+Giant Crocodile,Huge,"beast, Unaligned",85 (9d12+27),14 (Natural Armor),"30 ft., swim 50 ft.","5 (1,800 XP)"
+Giant Eagle,Large,"beast, Neutral Good",26 (4d10+4),13,"10 ft., fly 80 ft.",1 (200 XP)
+Giant Elk,Huge,"beast, Unaligned",42 (5d12+10),14 (Natural Armor),60 ft.,2 (450 XP)
+Giant Fire Beetle,Small,"beast, Unaligned",4 (1d6+1),13 (Natural Armor),30 ft.,0 (10 XP)
+Giant Frog,Medium,"beast, Unaligned",18 (4d8),11,"30 ft., swim 30 ft.",1/4 (50 XP)
+Giant Goat,Large,"beast, Unaligned",19 (3d10+3),11 (Natural Armor),40 ft.,1/2 (100 XP)
+Giant Hyena,Large,"beast, Unaligned",45 (6d10+12),12,50 ft.,1 (200 XP)
+Giant Lizard,Large,"beast, Unaligned",19 (3d10+3),12 (Natural Armor),"30 ft., climb 30 ft.",1/4 (50 XP)
+Giant Octopus,Large,"beast, Unaligned",52 (8d10+8),11,"10 ft., swim 60 ft.",1 (200 XP)
+Giant Owl,Large,"beast, Neutral",19 (3d10+3),12,"5 ft., fly 60 ft.",1/4 (50 XP)
+Giant Poisonous Snake,Medium,"beast, Unaligned",11 (2d8+2),14,"30 ft., swim 30 ft.",1/4 (50 XP)
+Giant Rat,Small,"beast, Unaligned",7 (2d6),12,30 ft.,1/8 (25 XP)
+Giant Scorpion,Large,"beast, Unaligned",52 (7d10+14),15 (Natural Armor),40 ft.,3 (700 XP)
+Giant Sea Horse,Large,"beast, Unaligned",16 (3d10),13 (Natural Armor),"0 ft., swim 40 ft.",1/2 (100 XP)
+Giant Shark,Huge,"beast, Unaligned",126 (11d12+55),13 (Natural Armor),Swim 50 ft.,"5 (1,800 XP)"
+Giant Spider,Large,"beast, Unaligned",26 (4d10+4),14 (Natural Armor),"30 ft., climb 30 ft.",1 (200 XP)
+Giant Toad,Large,"beast, Unaligned",39 (6d10+6),11,"20 ft., swim 40 ft.",1 (200 XP)
+Giant Vulture,Large,"beast, Neutral Evil",22 (3d10+6),10,"10 ft., fly 60 ft.",1 (200 XP)
+Giant Wasp,Medium,"beast, Unaligned",13 (3d8),12,"10 ft., fly 50 ft.",1/2 (100 XP)
+Giant Weasel,Medium,"beast, Unaligned",9 (2d8),13,40 ft.,1/8 (25 XP)
+Giant Wolf Spider,Medium,"beast, Unaligned",11 (2d8+2),13,"40 ft., climb 40 ft.",1/4 (50 XP)
+Gibbering Mouther,Medium,"aberration, Neutral",67 (9d8+27),9,"10 ft., swim 10 ft.",2 (450 XP)
+Glabrezu,Large,"fiend (demon), Chaotic Evil",157 (15d10+75),17 (Natural Armor),40 ft.,"9 (5,000 XP)"
+Gladiator,Medium,"humanoid (any race), Any Alignment",112 (15d8+45),"16 (Studded Leather, Shield)",30 ft.,"5 (1,800 XP)"
+Gnoll,Medium,"humanoid (gnoll), Chaotic Evil",22 (5d8),"15 (Hide Armor, Shield)",30 ft.,1/2 (100 XP)
+Goat,Medium,"beast, Unaligned",4 (1d8),10,40 ft.,0 (10 XP)
+Goblin,Small,"humanoid (goblinoid), Neutral Evil",7 (2d6),"15 (Leather Armor, Shield)",30 ft.,1/4 (50 XP)
+Gold Dragon Wyrmling,Medium,"dragon, Lawful Good",60 (8d8+24),17 (Natural Armor),"30 ft., fly 60 ft., swim 30 ft.",3 (700 XP)
+Gorgon,Large,"monstrosity, Unaligned",114 (12d10+48),19 (Natural Armor),40 ft.,"5 (1,800 XP)"
+Gray Ooze,Medium,"ooze, Unaligned",22 (3d8+9),8,"10 ft., climb 10 ft.",1/2 (100 XP)
+Green Dragon Wyrmling,Medium,"dragon, Lawful Evil",38 (7d8+7),17 (Natural Armor),"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Green Hag,Medium,"fey, Neutral Evil",82 (11d8+33),17 (Natural Armor),30 ft.,3 (700 XP)
+Grick,Medium,"monstrosity, Neutral",27 (6d8),14 (Natural Armor),"30 ft., climb 30 ft.",2 (450 XP)
+Griffon,Large,"monstrosity, Unaligned",59 (7d10+21),12,"30 ft., fly 80 ft.",2 (450 XP)
+Grimlock,Medium,"humanoid (grimlock), Neutral Evil",11 (2d8+2),11,30 ft.,1/4 (50 XP)
+Guard,Medium,"humanoid (any race), Any Alignment",11 (2d8+2),"16 (Chain Shirt, Shield)",30 ft.,1/8 (25 XP)
+Guardian Naga,Large,"monstrosity, Lawful Good",127 (15d10+45),18 (Natural Armor),40 ft.,"10 (5,900 XP)"
+Gynosphinx,Large,"monstrosity, Lawful Neutral",136 (16d10+48),17 (Natural Armor),"40 ft., fly 60 ft.","11 (7,200 XP)"
+Half-Red Dragon Veteran,Medium,"humanoid (human), Any",65 (10d8+20),18 (plate),30 ft.,"5 (1,800 XP)"
+Harpy,Medium,"monstrosity, Chaotic Evil",38 (7d8+7),11,"20 ft., fly 40 ft.",1 (200 XP)
+Hawk,Tiny,"beast, Unaligned",1 (1d4-1),13,"10 ft., fly 60 ft.",0 (10 XP)
+Hell Hound,Medium,"fiend, Lawful Evil",45 (7d8+14),15 (Natural Armor),50 ft.,3 (700 XP)
+Hezrou,Large,"fiend (demon), Chaotic Evil",136 (13d10+65),16 (Natural Armor),30 ft.,"8 (3,900 XP)"
+Hill Giant,Huge,"giant, Chaotic Evil",105 (10d12+40),13 (Natural Armor),40 ft.,"5 (1,800 XP)"
+Hippogriff,Large,"monstrosity, Unaligned",19 (3d10+3),11,"40 ft, fly 60 ft.",1 (200 XP)
+Hobgoblin,Medium,"humanoid (goblinoid), Lawful Evil",11 (2d8+2),"18 (Chain Mail, Shield)",30 ft.,1/2 (100 XP)
+Homunculus,Tiny,"construct, Neutral",5 (2d4),13 (Natural Armor),"20 ft., fly 40 ft.",0 (10 XP)
+Horned Devil,Large,"fiend (devil), Lawful Evil",178 (17d10+85),18 (Natural Armor),"20 ft., fly 60 ft.","11 (7,200 XP)"
+Hunter Shark,Large,"beast, Unaligned",45 (6d10+12),12 (Natural Armor),Swim 40 ft.,2 (450 XP)
+Hydra,Huge,"monstrosity, Unaligned",172 (15d12+75),15 (Natural Armor),"30 ft., swim 30 ft.","8 (3,900 XP)"
+Hyena,Medium,"beast, Unaligned",5 (1d8+1),11,50 ft.,0 (10 XP)
+Ice Devil,Large,"fiend (devil), Lawful Evil",180 (19d10+76),18 (Natural Armor),40 ft.,"14 (11,500 XP)"
+Ice Mephit,Small,"elemental, Neutral Evil",21 (6d6),11,"30 ft., fly 30 ft.",1/2 (100 XP)
+Imp,Tiny,"fiend (devil, shapechanger), Lawful Evil",10 (3d4+3),13,"20 ft., fly 40 ft.",1 (200 XP)
+Incubus,Medium,"Fiend (Shapechanger), Neutral Evil",66 (12d8 + 12),15 (Natural Armor),"30 ft., fly 60 ft.","4 (1,100 XP)"
+Invisible Stalker,Medium,"elemental, Neutral",104 (16d8+32),14,"50 ft., fly 50 ft. (hover)","6 (2,300 XP)"
+Iron Golem,Large,"construct, Unaligned",210 (20d10+100),20 (Natural Armor),30 ft.,"16 (15,000 XP)"
+Jackal,Small,"beast, Unaligned",3 (1d6),12,40 ft.,0 (10 XP)
+Killer Whale,Huge,"beast, Unaligned",90 (12d12+12),12 (Natural Armor),Swim 60 ft.,3 (700 XP)
+Knight,Medium,"humanoid (any race), Any Alignment",52 (8d8+16),18 (Plate),30 ft.,3 (700 XP)
+Kobold,Small,"humanoid (kobold), Lawful Evil",5 (2d6-2),12,30 ft.,1/8 (25 XP)
+Kraken,Gargantuan,"monstrosity (titan), Chaotic Evil",472 (27d20+189),18 (Natural Armor),"20 ft., swim 60 ft.","23 (50,000 XP)"
+Lamia,Large,"monstrosity, Chaotic Evil",97 (13d10+26),13 (Natural Armor),30 ft.,"4 (1,100 XP)"
+Lemure,Medium,"fiend (devil), Lawful Evil",13 (3d8),7,15 ft.,0 (10 XP)
+Lich,Medium,"undead, Any Evil Alignment",135 (18d8+54),17 (Natural Armor),30 ft.,"21 (33,000 XP)"
+Lion,Large,"beast, Unaligned",26 (4d10+4),12,50 ft.,1 (200 XP)
+Lizard,Tiny,"beast, Unaligned",2 (1d4),10,"20 ft., climb 20 ft.",0 (10 XP)
+Lizardfolk,Medium,"humanoid (lizardfolk), Neutral",22 (4d8+4),"15 (Natural Armor, Shield)","30 ft., swim 30 ft.",1/2 (100 XP)
+Mage,Medium,"humanoid (any race), Any Alignment",40 (9d8),12 (15 With Mage Armor),30 ft.,"6 (2,300 XP)"
+Magma Mephit,Small,"elemental, Neutral Evil",22 (5d6+5),11,"30 ft., fly 30 ft.",1/2 (100 XP)
+Magmin,Small,"elemental, Chaotic Neutral",9 (2d6+2),14 (Natural Armor),30 ft.,1/2 (100 XP)
+Mammoth,Huge,"beast, Unaligned",126 (11d12+55),13 (Natural Armor),40 ft.,"6 (2,300 XP)"
+Manticore,Large,"monstrosity, Lawful Evil",68 (8d10+24),14 (Natural Armor),"30 ft., fly 50 ft.",3 (700 XP)
+Marilith,Large,"fiend (demon), Chaotic Evil",189 (18d10+90),18 (Natural Armor),40 ft.,"16 (15,000 XP)"
+Mastiff,Medium,"beast, Unaligned",5 (1d8+1),12,40 ft.,1/8 (25 XP)
+Medusa,Medium,"monstrosity, Lawful Evil",127 (17d8+51),15 (Natural Armor),30 ft.,"6 (2,300 XP)"
+Merfolk,Medium,"humanoid (merfolk), Neutral",11 (2d8+2),11,"10 ft., swim 40 ft.",1/8 (25 XP)
+Merrow,Large,"monstrosity, Chaotic Evil",45 (6d10+12),13 (Natural Armor),"10 ft., swim 40 ft.",2 (450 XP)
+Mimic,Medium,"monstrosity (shapechanger), Neutral",58 (9d8+18),12 (Natural Armor),15 ft.,2 (450 XP)
+Minotaur,Large,"monstrosity, Chaotic Evil",76 (9d10+27),14 (Natural Armor),40 ft.,3 (700 XP)
+Minotaur Skeleton,Large,"undead, Lawful Evil",67 (9d10+18),12 (Natural Armor),40 ft.,2 (450 XP)
+Mule,Medium,"beast, Unaligned",11 (2d8+2),10,40 ft.,1/8 (25 XP)
+Mummy,Medium,"undead, Lawful Evil",58 (9d8+18),11 (Natural Armor),20 ft.,3 (700 XP)
+Mummy Lord,Medium,"undead, Lawful Evil",97 (13d8+39),17 (Natural Armor),20 ft.,"15 (13,000 XP)"
+Nalfeshnee,Large,"fiend (demon), Chaotic Evil",184 (16d10+96),18 (Natural Armor),"20 ft., fly 30 ft.","13 (10,000 XP)"
+Night Hag,Medium,"fiend, Neutral Evil",112 (15d8+45),17 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Nightmare,Large,"fiend, Neutral Evil",68 (8d10+24),13 (Natural Armor),"60 ft., fly 90 ft.",3 (700 XP)
+Noble,Medium,"humanoid (any race), Any Alignment",9 (2d8),15 (Breastplate),30 ft.,1/8 (25 XP)
+Ochre Jelly,Large,"ooze, Unaligned",45 (6d10+12),8,"10 ft., climb 10 ft.",2 (450 XP)
+Octopus,Small,"beast, Unaligned",3 (1d6),12,"5 ft., swim 30 ft.",0 (10 XP)
+Ogre,Large,"giant, Chaotic Evil",59 (7d10+21),11 (Hide Armor),40 ft.,2 (450 XP)
+Ogre Zombie,Large,"undead, Neutral Evil",85 (9d10+36),8,30 ft.,2 (450 XP)
+Oni,Large,"giant, Lawful Evil",110 (13d10+39),16 (Chain Mail),"30 ft., fly 30 ft.","7 (2,900 XP)"
+Orc,Medium,"humanoid (orc), Chaotic Evil",15 (2d8+6),13 (Hide Armor),30 ft.,1/2 (100 XP)
+Otyugh,Large,"aberration, Neutral",114 (12d10+48),14 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Owl,Tiny,"beast, Unaligned",1 (1d4-1),11,"5 ft., fly 60 ft.",0 (10 XP)
+Owlbear,Large,"monstrosity, Unaligned",59 (7d10+21),13 (Natural Armor),40 ft.,3 (700 XP)
+Panther,Medium,"beast, Unaligned",13 (3d8),12,"50 ft., climb 40 ft.",1/4 (50 XP)
+Pegasus,Large,"celestial, Chaotic Good",59 (7d10+21),12,"60 ft., fly 90 ft.",2 (450 XP)
+Phase Spider,Large,"monstrosity, Unaligned",32 (5d10+5),13 (Natural Armor),"30 ft., climb 30 ft.",3 (700 XP)
+Pit Fiend,Large,"fiend (devil), Lawful Evil",300 (24d10+168),19 (Natural Armor),"30 ft., fly 60 ft.","20 (25,000 XP)"
+Planetar,Large,"celestial, Lawful Good",200 (16d10+112),19 (Natural Armor),"40 ft., fly 120 ft.","16 (15,000 XP)"
+Plesiosaurus,Large,"beast, Unaligned",68 (8d10+24),13 (Natural Armor),"20 ft., swim 40 ft.",2 (450 XP)
+Poisonous Snake,Tiny,"beast, Unaligned",2 (1d4),13,"30 ft., swim 30 ft.",1/8 (25 XP)
+Polar Bear,Large,"beast, Unaligned",42 (5d10+15),12 (Natural Armor),"40 ft., swim 30 ft.",2 (450 XP)
+Pony,Medium,"beast, Unaligned",11 (2d8+2),10,40 ft.,1/8 (25 XP)
+Priest,Medium,"humanoid (any race), Any Alignment",27 (5d8+5),13 (Chain Shirt),25 ft.,2 (450 XP)
+Pseudodragon,Tiny,"dragon, Neutral Good",7 (2d4+2),13,"15 ft., fly 60 ft.",1/4 (50 XP)
+Purple Worm,Gargantuan,"monstrosity, Unaligned",247 (15d20+90),18 (Natural Armor),"50 ft., burrow 30 ft.","15 (13,000 XP)"
+Quasit,Tiny,"fiend (demon), Chaotic Evil",7 (3d4),13,40 ft.,1 (200 XP)
+Quipper,Tiny,"beast, Unaligned",1 (1d4-1),13,Swim 40 ft.,0 (10 XP)
+Rakshasa,Medium,"fiend, Lawful Evil",110 (13d8+52),16 (Natural Armor),40 ft.,"13 (10,000 XP)"
+Rat,Tiny,"beast, Unaligned",1 (1d4-1),10,20 ft.,0 (10 XP)
+Raven,Tiny,"beast, Unaligned",1 (1d4-1),12,"10 ft., fly 50 ft.",0 (10 XP)
+Red Dragon Wyrmling,Medium,"dragon, Chaotic Evil",75 (10d8+30),17 (Natural Armor),"30 ft., climb 30 ft., fly 60 ft.","4 (1,100 XP)"
+Reef Shark,Medium,"beast, Unaligned",22 (4d8+4),12 (Natural Armor),Swim 40 ft.,1/2 (100 XP)
+Remorhaz,Huge,"monstrosity, Unaligned",195 (17d12+85),17 (Natural Armor),"30 ft., burrow 20 ft.","11 (7,200 XP)"
+Rhinoceros,Large,"beast, Unaligned",45 (6d10+12),11 (Natural Armor),40 ft.,2 (450 XP)
+Riding Horse,Large,"beast, Unaligned",13 (2d10+2),10,60 ft.,1/4 (50 XP)
+Roc,Gargantuan,"monstrosity, Unaligned",248 (16d20+80),15 (Natural Armor),"20 ft., fly 120 ft.","11 (7,200 XP)"
+Roper,Large,"monstrosity, Neutral Evil",93 (11d10+33),20 (Natural Armor),"10 ft., climb 10 ft.","5 (1,800 XP)"
+Rug of Smothering,Large,"construct, Unaligned",33 (6d10),12,10 ft.,2 (450 XP)
+Rust Monster,Medium,"monstrosity, Unaligned",27 (5d8+5),14 (Natural Armor),40 ft.,1/2 (100 XP)
+Saber-Toothed Tiger,Large,"beast, Unaligned",52 (7d10 + 14),12,40 ft.,2 (450 XP)
+Sahuagin,Medium,"humanoid (sahuagin), Lawful Evil",22 (4d8+4),12 (Natural Armor),"30 ft., swim 40 ft.",1/2 (100 XP)
+Salamander,Large,"elemental, Neutral Evil",90 (12d10+24),15 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Satyr,Medium,"fey, Chaotic Neutral",31 (7d8),14 (Leather Armor),40 ft.,1/2 (100 XP)
+Scorpion,Tiny,"beast, Unaligned",1 (1d4-1),11 (Natural Armor),10 ft.,0 (10 XP)
+Scout,Medium,"humanoid (any race), Any Alignment",16 (3d8+3),13 (Leather Armor),30 ft.,1/2 (100 XP)
+Sea Hag,Medium,"fey, Chaotic Evil",52 (7d8+21),14 (Natural Armor),"30 ft., swim 40 ft.",2 (450 XP)
+Sea Horse,Tiny,"beast, Unaligned",1 (1d4-1),11,Swim 20 ft.,0 (10 XP)
+Shadow,Medium,"undead, Chaotic Evil",16 (3d8+3),12,40 ft.,1/2 (100 XP)
+Shambling Mound,Large,"plant, Unaligned",136 (16d10+48),15 (Natural Armor),"20 ft., swim 20 ft.","5 (1,800 XP)"
+Shield Guardian,Large,"construct, Unaligned",142 (15d10+60),17 (Natural Armor),30 ft.,"7 (2,900 XP)"
+Shrieker,Medium,"plant, Unaligned",13 (3d8),5,0 ft.,0 (10 XP)
+Silver Dragon Wyrmling,Medium,"dragon, Lawful Good",45 (6d8+18),17 (Natural Armor),"30 ft., fly 60 ft.",2 (450 XP)
+Skeleton,Medium,"undead, Lawful Evil",13 (2d8+4),13 (Armor Scraps),30 ft.,1/4 (50 XP)
+Solar,Large,"celestial, Lawful Good",243 (18d10+144),21 (Natural Armor),"50 ft., fly 150 ft.","21 (33,000 XP)"
+Specter,Medium,"undead, Chaotic Evil",22 (5d8),12,"0 ft., fly 50 ft. (hover)",1 (200 XP)
+Spider,Tiny,"beast, Unaligned",1 (1d4-1),12,"20 ft., climb 20 ft.",0 (10 XP)
+Spirit Naga,Large,"monstrosity, Chaotic Evil",75 (10d10+20),15 (Natural Armor),40 ft.,"8 (3,900 XP)"
+Sprite,Tiny,"fey, Neutral Good",2 (1d4),15 (Leather Armor),"10 ft., fly 40 ft.",1/4 (50 XP)
+Spy,Medium,"humanoid (any race), Any Alignment",27 (6d8),12,30 ft.,1 (200 XP)
+Steam Mephit,Small,"elemental, Neutral Evil",21 (6d6),10,"30 ft., fly 30 ft.",1/4 (50 XP)
+Stirge,Tiny,"beast, Unaligned",2 (1d4),14 (Natural Armor),"10 ft., fly 40 ft.",1/8 (25 XP)
+Stone Giant,Huge,"giant, Neutral",126 (11d12+55),17 (Natural Armor),40 ft.,"7 (2,900 XP)"
+Stone Golem,Large,"construct, Unaligned",178 (17d10+85),17 (Natural Armor),30 ft.,"10 (5,900 XP)"
+Storm Giant,Huge,"giant, Chaotic Good",230 (20d12+100),16 (Scale Mail),"50 ft., swim 50 ft.","13 (10,000 XP)"
+Succubus,Medium,"Fiend (Shapechanger), Neutral Evil",66 (12d8 + 12),15 (Natural Armor),"30 ft., fly 60 ft.","4 (1,100 XP)"
+Succubus (Incubus),Medium,"fiend (shapechanger), Neutral Evil",66 (12d8+12),15 (Natural Armor),"30 ft., fly 60 ft.","4 (1,100 XP)"
+Swarm of Bats,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12,"0 ft., fly 30 ft.",1/4 (50 XP)
+Swarm of Beetles,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12 (Natural Armor),"20 ft., burrow 5 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Centipedes,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12 (Natural Armor),"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Insects,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12 (Natural Armor),"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Poisonous Snakes,Medium,"swarm of tiny beasts, Unaligned",36 (8d8),14,"30 ft., swim 30 ft.",2 (450 XP)
+Swarm of Quippers,Medium,"swarm of tiny beasts, Unaligned",28 (8d8-8),13,"0 ft., swim 40 ft.",1 (200 XP)
+Swarm of Rats,Medium,"swarm of tiny beasts, Unaligned",24 (7d8-7),10,30 ft.,1/4 (50 XP)
+Swarm of Ravens,Medium,"swarm of tiny beasts, Unaligned",24 (7d8-7),12,"10 ft., fly 50 ft.",1/4 (50 XP)
+Swarm of Spiders,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12 (Natural Armor),"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Wasps,Medium,"swarm of tiny beasts, Unaligned",22 (5d8),12 (Natural Armor),"5 ft., fly 30 ft.",1/2 (100 XP)
+Tarrasque,Gargantuan,"monstrosity (titan), Unaligned",676 (33d20+330),25 (Natural Armor),40 ft.,"30 (155,000 XP)"
+Thug,Medium,"humanoid (any race), Any Non-good Alignment",32 (5d8+10),11 (Leather Armor),30 ft.,1/2 (100 XP)
+Tiger,Large,"beast, Unaligned",37 (5d10+10),12,40 ft.,1 (200 XP)
+Treant,Huge,"plant, Chaotic Good",138 (12d12+60),16 (Natural Armor),30 ft.,"9 (5,000 XP)"
+Tribal Warrior,Medium,"humanoid (any race), Any Alignment",11 (2d8+2),12 (Hide Armor),30 ft.,1/8 (25 XP)
+Triceratops,Huge,"beast, Unaligned",95 (10d12+30),13 (Natural Armor),50 ft.,"5 (1,800 XP)"
+Troll,Large,"giant, Chaotic Evil",84 (8d10+40),15 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Tyrannosaurus Rex,Huge,"beast, Unaligned",136 (13d12+52),13 (Natural Armor),50 ft.,"8 (3,900 XP)"
+Unicorn,Large,"celestial, Lawful Good",67 (9d10+18),12,50 ft.,"5 (1,800 XP)"
+Vampire,Medium,"undead (shapechanger), Lawful Evil",144 (17d8+68),16 (Natural Armor),30 ft.,"13 (10,000 XP)"
+Vampire Spawn,Medium,"undead, Neutral Evil",82 (11d8+33),15 (Natural Armor),30 ft.,"5 (1,800 XP)"
+Veteran,Medium,"humanoid (any race), Any Alignment",58 (9d8+18),17 (Splint),30 ft.,3 (700 XP)
+Violet Fungus,Medium,"plant, Unaligned",18 (4d8),5,5 ft.,1/4 (50 XP)
+Vrock,Large,"fiend (demon), Chaotic Evil",104 (11d10+44),15 (Natural Armor),"40 ft., fly 60 ft.","6 (2,300 XP)"
+Vulture,Medium,"beast, Unaligned",5 (1d8+1),10,"10 ft., fly 50 ft.",0 (10 XP)
+Warhorse,Large,"beast, Unaligned",19 (3d10+3),11,60 ft.,1/2 (100 XP)
+Warhorse Skeleton,Large,"undead, Lawful Evil",22 (3d10+6),13 (Barding Scraps),60 ft.,1/2 (100 XP)
+Water Elemental,Large,"elemental, Neutral",114 (12d10+48),14 (Natural Armor),"30 ft., swim 90 ft.","5 (1,800 XP)"
+Weasel,Tiny,"beast, Unaligned",1 (1d4-1),13,30 ft.,0 (10 XP)
+Werebear,Medium,"humanoid (human, shapechanger), Neutral Good",135 (18d8+54),"10 (In Humanoid Form, 11 In Bear And Hybrid Forms )","30 ft. (40 ft., climb 30 ft. in bear or hybrid form)","5 (1,800 XP)"
+Wereboar,Medium,"humanoid (human, shapechanger), Neutral Evil",78 (12d8+24),"10 (In Humanoid Form, 11 In Boar And Hybrid Forms )",30 ft. (40 ft. in boar form),"4 (1,100 XP)"
+Wererat,Medium,"humanoid (human, shapechanger), Lawful Evil",33 (6d8+6),12,30 ft.,2 (450 XP)
+Weretiger,Medium,"humanoid (human, shapechanger), Neutral",120 (16d8+48),12,30 ft. (40 ft. in tiger form),"4 (1,100 XP)"
+Werewolf,Medium,"humanoid (human, shapechanger), Chaotic Evil",58 (9d8+18),"11 (In Humanoid Form, 12 In Wolf Or Hybrid Form)",30 ft. (40 ft. in wolf form),3 (700 XP)
+White Dragon Wyrmling,Medium,"dragon, Chaotic Evil",32 (5d8+10),16 (Natural Armor),"30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Wight,Medium,"undead, Neutral Evil",45 (6d8+18),14 (Studded Leather),30 ft.,3 (700 XP)
+Will-o'-Wisp,Tiny,"undead, Chaotic Evil",22,19,"0 ft., fly 50 ft. (hover)",2 (450 XP)
+Winter Wolf,Large,"monstrosity, Neutral Evil",75 (10d10+20),13 (Natural Armor),50 ft.,3 (700 XP)
+Wolf,Medium,"beast, Unaligned",11 (2d8+2),13 (Natural Armor),40 ft.,1/4 (50 XP)
+Worg,Large,"monstrosity, Neutral Evil",26 (4d10+4),13 (Natural Armor),50 ft.,1/2 (100 XP)
+Wraith,Medium,"undead, Neutral Evil",67 (9d8+27),13,"0 ft., fly 60 ft. (hover)","5 (1,800 XP)"
+Wyvern,Large,"dragon, Unaligned",110 (13d10+39),13 (Natural Armor),"20 ft., fly 80 ft.","6 (2,300 XP)"
+Xorn,Medium,"elemental, Neutral",73 (7d8+42),19 (Natural Armor),"20 ft., burrow 20 ft.","5 (1,800 XP)"
+Young Black Dragon,Large,"dragon, Chaotic Evil",127 (15d10+45),18 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","7 (2,900 XP)"
+Young Blue Dragon,Large,"dragon, Lawful Evil",152 (16d10+64),18 (Natural Armor),"40 ft., burrow 40 ft., fly 80 ft.","9 (5,000 XP)"
+Young Brass Dragon,Large,"dragon, Chaotic Good",110 (13d10+39),17 (Natural Armor),"40 ft., burrow 20 ft., fly 80 ft.","6 (2,300 XP)"
+Young Bronze Dragon,Large,"dragon, Lawful Good",142 (15d10+60),18 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","8 (3,900 XP)"
+Young Copper Dragon,Large,"dragon, Chaotic Good",119 (14d10+42),17 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","7 (2,900 XP)"
+Young Gold Dragon,Large,"dragon, Lawful Good",178 (17d10+85),18 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","10 (5,900 XP)"
+Young Green Dragon,Large,"dragon, Lawful Evil",136 (16d10+48),18 (Natural Armor),"40 ft., fly 80 ft., swim 40 ft.","8 (3,900 XP)"
+Young Red Dragon,Large,"dragon, Chaotic Evil",178 (17d10+85),18 (Natural Armor),"40 ft., climb 40 ft., fly 80 ft.","10 (5,900 XP)"
+Young Silver Dragon,Large,"dragon, Lawful Good",168 (16d10+80),18 (Natural Armor),"40 ft., fly 80 ft.","9 (5,000 XP)"
+Young White Dragon,Large,"dragon, Chaotic Evil",133 (14d10+56),17 (Natural Armor),"40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.","6 (2,300 XP)"
+Zombie,Medium,"undead, Neutral Evil",22 (3d8+9),8,20 ft.,1/4 (50 XP)
